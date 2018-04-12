@@ -9,7 +9,7 @@ Where To Start:
  - the [Chrome Extension Developer's Guide](https://developer.chrome.com/extensions/devguide)
  - Facebook [OpenGraph Markup Documentation](https://developers.facebook.com/docs/sharing/webmasters#markup)
  - Facebook [OpenGraph Debugger](https://developers.facebook.com/tools/debug/)
- - the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en) Chrome Extension - this is a good example of a Chrome extension that does reads data from the page but doesn't do exactly what this task is.
+ - the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en) Chrome Extension - this is a good example of a Chrome extension that reads data from the page but doesn't do exactly what this task is.
 
 Bonus:
 ---
