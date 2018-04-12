@@ -1,17 +1,20 @@
-Write a program that will output the names and IDs of everyone who is likely to buy some Tom Brady merchandise. For this exercise, we’ll use anyone who has commented on a post on his fanpage in the past 24hrs as an indicator of interest. You can write the program in any language you’re comfortable with, but make sure your code is well-organized and shareable.
+Write a Google Chrome extension that adds a modal dialog to any web page whenever the query parameter `?fanrock=true` is present in the address bar. The contents of the modal should show the OpenGraph metadata (if present) of the page.
+
+For example, if I were to visit the [Rotten Tomatoes page](https://www.rottentomatoes.com/m/avatar?fanrock=true) for the movie Avatar, it would look like this:
+
+![Avatar](https://raw.githubusercontent.com/fanrock/homework/master/avatar.jpg)
 
 Where To Start:
 ---------------
- - the [Tom Brady fanpage](https://www.facebook.com/TomBrady)
- - the facebook [Graph API reference for Pages](https://developers.facebook.com/docs/graph-api/reference/page)
- - the [Graph API Explorer](https://developers.facebook.com/tools/explorer/145634995501895/?method=GET&path=TomBrady&version=v2.4) to test APIs (it’s okay to hard code an access token or take one in as an input parameter instead of  - doing actual OAuth)
+ - the [Chrome Extension Developer's Guide](https://developer.chrome.com/extensions/devguide)
+ - Facebook [OpenGraph Markup Documentation](https://developers.facebook.com/docs/sharing/webmasters#markup)
+ - Facebook [OpenGraph Debugger](https://developers.facebook.com/tools/debug/)
+ - the [Facebook Pixel Helper](https://chrome.google.com/webstore/detail/facebook-pixel-helper/fdgfkebogiimcoedlicjlajpkdmockpc?hl=en) Chrome Extension - this is a good example of a Chrome extension that does reads data from the page but doesn't do exactly what this task is.
 
-Bonus
------
- - make your program work for any athlete/page
- - make your program work for any arbitrary time range (longer than 24hrs)
- - if you weren’t going to anyways, write your program in Python or Node
+Bonus:
+---
+ - publish your extension (if you're already a registered Google Developer)
 
 Deliverables
 ------------
-Fork this repository and write your code in your own private branch. Edit this `README.md` file with instructions on how to execute whatever code you write. Send a [pull request](https://help.github.com/articles/using-pull-requests/) when your code is complete.
+Fork this repository and write your code in your own private branch. Edit this `README.md` file with instructions on how to execute whatever code you write. It should work as an unpacked extension. Send a [pull request](https://help.github.com/articles/using-pull-requests/) when your code is complete.
