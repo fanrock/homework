@@ -17,4 +17,4 @@ Bonus:
 
 Deliverables
 ------------
-Fork this repository and write your code in your own private branch. Edit this `README.md` file with instructions on how to execute whatever code you write. It should work as an unpacked extension. Send a [pull request](https://help.github.com/articles/using-pull-requests/) when your code is complete.
+Clone this repository and write code in your own github account. Edit this `README.md` file with instructions on how to execute whatever code you write. It should work as an [unpacked extension](https://developer.chrome.com/extensions/getstarted). Send us a link to your completed code when finished.
