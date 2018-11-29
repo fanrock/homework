@@ -18,10 +18,8 @@ Bonus:
 Deliverables
 ------------
 
-**Code**
-Clone this repository and write code in your own github account. Edit this `README.md` file with instructions on how to execute whatever code you write. It should work as an [unpacked extension](https://developer.chrome.com/extensions/getstarted). Send us a link to your completed code when finished.
+**Code** - Clone this repository and write code in your own github account. Edit this `README.md` file with instructions on how to execute whatever code you write. It should work as an [unpacked extension](https://developer.chrome.com/extensions/getstarted). Send us a link to your completed code when finished.
 
-**Screencast**
-Our team really values communication! Please make a screencast where you show us the functionality you implemented and talk us through the code you wrote. This can be quick (no more than 5 minutes) and casual. 
+**Screencast** - Our team really values communication! Please make a screencast where you show us the functionality you implemented and talk us through the code you wrote. This can be quick (no more than 5 minutes) and casual. 
 
 If you don't have a tool you currently use to make screencasts, we recommend you use Loom (https://www.useloom.com/) to make the screencast. It's free and easy to use. 
