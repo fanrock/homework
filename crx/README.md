@@ -2,7 +2,7 @@ Write a Google Chrome extension that adds a modal dialog to any web page wheneve
 
 For example, if I were to visit the [Rotten Tomatoes page](https://www.rottentomatoes.com/m/avatar?fanrock=true) for the movie Avatar, it would look like this:
 
-![Avatar](https://raw.githubusercontent.com/fanrock/homework/master/avatar.jpg)
+![Avatar](https://raw.githubusercontent.com/fanrock/homework/master/crx/avatar.jpg)
 
 Where To Start:
 ---------------
